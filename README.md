@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rakesh7r
-- 👀 I’m interested in Web Development
-- 🌱 Currently, I'm a student at JNTU Hyderabad
-- 💞️ I like to work on internships
+- </> I’m a software engineer.
+- 🌱 Currently, Working at Qnity electronics.
 - 📫 reach me rakeshgandla200@gmail.com
 
 <!---
